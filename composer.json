@@ -1,0 +1,14 @@
+{
+    "name": "tinyken/framework",
+    "description": "php TinyKen FrameWork Core",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kenfo",
+            "email": "xxg3053@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
